@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="txt_login">Login</string>
+    <string name="txt_about">About</string>
+    <string name="txt_exit">Exit</string>
+    <string name="txt_senha">Password</string>
+
+    <string name="hint_login">Input your login</string>
+    <string name="hint_senha">Input your password</string>
+
+    <string name="botao_login">Conect</string>
+
+    <string name="about_developer">Developed by: Phillipe Andrade Carvalho</string>
+    <string name="about_version">Version: 1.2</string>
+</resources>
